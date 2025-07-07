@@ -9,7 +9,7 @@ This repository contains a PyTorch-based diffusion model designed for image-to-i
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/sdo_diffusion.git
+git clone https://github.com/fpramunno/sdo_diffusion.git
 cd sdo_diffusion
 ```
 
